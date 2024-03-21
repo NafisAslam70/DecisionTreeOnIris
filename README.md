@@ -1,6 +1,6 @@
 # Iris Decision Tree Classifier
 
-This project implements a Decision Tree Classifier to predict iris species based on sepal and petal measurements.
+This project implements a Decision Tree Classifier to predict iris species based on sepal and petal measurements. The Decision Tree is also generated to visualise the tree and exported in pdf file.
 
 ## Introduction
 
